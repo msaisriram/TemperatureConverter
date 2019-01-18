@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                     fahrenheitButton.setChecked(false);
                     celsiusButton.setChecked(true);
                 }
-
+                break;
         }
     }
 }
